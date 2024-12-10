@@ -2,9 +2,9 @@
 
 # Display logo
 echo -e '\e[34m'
-echo -e '██ ██  ██   ██ ███ ██   '
-echo -e '██ '        ██     ██ 
-echo -e '█████ ██    ██  ██ ██   '
+echo -e '████████    █████████  '
+echo -e '██          ██     ██   ' 
+echo -e '███████     ██  ██ ██   '
 echo -e '██          ██ '   
 echo -e '████████    ██    '
 echo -e '                                                   '
