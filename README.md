@@ -17,7 +17,7 @@
 
 1. **Clone Repository**
    ```bash
-    git clone https://github.com/ssadi1213/nexus.git
+    git clone https://github.com/ssadi1213/nexus1.git
     cd nexus1
 
 2. Process On Screen
