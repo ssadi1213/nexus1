@@ -37,4 +37,4 @@
 ---
 <br>
 Dont Forget Support Team 
-https://trakteer.id/Winsnipsupport/tip
+
